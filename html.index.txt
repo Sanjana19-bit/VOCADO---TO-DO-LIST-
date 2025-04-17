@@ -1,0 +1,41 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>VocaDo - Voice-Controlled To-Do List</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>VocaDo</h1>
+    <p>Your voice-powered to-do assistant</p>
+  </header>
+
+  <section class="features">
+    <h2>Features</h2>
+    <ul>
+      <li>Add tasks by voice</li>
+      <li>Remove or delete tasks</li>
+      <li>Display and repeat your list</li>
+      <li>Smart voice interaction</li>
+      <li>Save to local file</li>
+    </ul>
+  </section>
+
+  <section class="screenshot">
+    <h2>How It Works</h2>
+    <p>Just speak commands like “Add study for math test” or “Display my list”.</p>
+    <img src="screenshot.png" alt="App screenshot" />
+  </section>
+
+  <section class="code-link">
+    <a href="https://github.com/Sanjana19-bit/Vocode-website" target="_blank">View on GitHub</a>
+  </section>
+
+  <footer>
+    <p>Made with love for college project presentation.</p>
+  </footer>
+</body>
+</html>
